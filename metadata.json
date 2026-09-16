@@ -1,0 +1,6 @@
+{
+  "name": "Sonorus Melodious v12.3",
+  "description": "Professional Web DAW combining Logic, Acoustica, Reason modular rack, 50 AI modules, live loops launcher, Web Audio synth engine, and business valuation suite.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
